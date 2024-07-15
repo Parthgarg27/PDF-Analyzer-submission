@@ -3,7 +3,8 @@ python-dotenv
 langchain-google-genai  
 langchain-community
 langchain-core
-langchain-chains
+langchain-chain_question_answering
+langchain-text_splitter
 google-generativeai
 PYPDF2
 faiss-cpu
